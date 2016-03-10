@@ -6,7 +6,7 @@
       display: inline-block;
       background-color: white;
     }
-
+  
     /* Select all child links in a nav element */
     .nav a {
       text-decoration: none;
@@ -55,7 +55,7 @@
       min-width:600px;
       max-width:800px;
       margin:0 auto;
-      background-color: rgb(50,50,50);
+      background-color: transparent;
       height:50px;
       clear:both;
     }
